@@ -1,4 +1,8 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://techteachesteli.info/"
+title = "TechTeach Esteli"
+DefaultContentLanguage = "es"
 publishDir = "docs"
+
+[languages]
+[languages.es]
+weight = 1
