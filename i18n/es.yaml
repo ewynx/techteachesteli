@@ -23,6 +23,8 @@
   translation: "TechTeach niñ@s"
 - id: contact
   translation: "Contacto"
+- id: horario-comment
+  translation: "Participación es gratuita. Si tienes una laptop, llévala, si no tienes puedes utilizar una de las laptops acá."
 
 # Team
 - id: team

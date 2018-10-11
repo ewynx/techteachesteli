@@ -204,6 +204,8 @@ footer {
 
 footer img {
     padding-top: 2rem;
+    height: 100px;
+    width: 100px;
 }
 
 footer a {
